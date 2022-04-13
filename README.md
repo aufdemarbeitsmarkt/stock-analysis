@@ -8,7 +8,7 @@ His parents have already invested their allotted investment amount in `DAQO (DQ)
 
 As a result, Steve wants to look into `DQ`'s performance. Additionally, he'd like to diversify their funds.
 
-Using Visual Basic for Applications (VBA), we will ensure our stock dataset can be analyzed quickly and with minimal room for error. As above, we will be concerned with specifically looking at DQ's performance; we will also be creating a repeatable analysis of the Total Daily Volume and Return data for all stocks in 2017 and 2018.
+Using Visual Basic for Applications (VBA), we will ensure our stock dataset can be analyzed quickly and with minimal room for error. As above, we will be concerned with specifically looking at `DQ`'s performance; we will also be creating a repeatable analysis of the Total Daily Volume and Return data for all stocks in 2017 and 2018.
 
 
 
@@ -72,4 +72,4 @@ However, a major disadvantage of the original VBA script is that it performs mor
 
 A disadvantage of this refactor meant working with a template and, thus, I had to familiarize myself with the existing structure. At times, I found myself in the weeds, aiming to understand the template instead of the problem at hand.
 
-Finally, a _huge_ advantage of the refactored script was that it allowed for up to an ~87% decrease in runtime. See the table below for more details. Refer to the [table above](#code-performance) for more detailed performance data.
+Finally, a _huge_ advantage of the refactored script was that it allowed for up to an ~87% decrease in runtime. Refer to the [table above](#code-performance) for more detailed performance data.
